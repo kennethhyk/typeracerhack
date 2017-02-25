@@ -1,5 +1,6 @@
 # typeracerhack
 this tool only works on play.typeracer.com
+**
 *1. find a chrome plugin that runs custom javascripts
 *2. go to play.typeracer.com and load the scirpt
 *3. get in a race
